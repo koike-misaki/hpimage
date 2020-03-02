@@ -1,0 +1,115 @@
+body {background-color: #efefef;
+font-size: 14px;
+color: #333;
+margin:0;}
+
+h1,h2,h3,h4,h5 {margin: 0 0 10px 0;
+padding: 0;}
+
+header {margin-top: 20px;}
+
+.container {
+width: 920px;
+margin: 0 auto 40px auto;}
+
+.header-title-area {margin-top: 40px;
+margin-bottom: 30px;}
+
+.logo {font-size: 32px;}
+.text-sub {color: #777;}
+
+.header-navigation {
+width: 100%;
+background-color: #fff;
+padding: 20px 0;
+}
+
+.header-navigation:after {
+clear: both;
+display: block;
+content: " ";
+}
+
+.header-navigation li {
+float: left;
+padding: 0 30px;
+text-align: center;
+list-style-type: none;
+}
+
+.header-navigation li a {
+color: #333;
+text-decoration: none;
+}
+
+.text-title {
+font-size: 24px;
+font-weight: bold;
+margin-top: 0;
+margin-bottom: 20px;
+}
+
+.card-contents {
+padding: 40px;
+display: block;
+margin-bottom: 20px;
+background-color: #fff;
+}
+
+.staff-list-area:after {
+clear: both;
+display: block;
+content: " ";
+}
+.staff-list {
+width: 200px;
+margin-right: 35px;
+float: left;
+}
+.staff-list:last-child {
+margin-right: 0;
+}
+
+.staff-image {
+margin-bottom: 10px;
+/*width: 150px;*/
+height: 200px;
+display: block;
+}
+
+.more-image {
+margin-bottom: 10px;
+width: 450px;
+display: block;
+}
+
+.staff-name {
+text-align: left;
+}
+
+.more-data {
+text-align: center;
+padding-bottom : 20px;
+}
+
+.copyright {
+color: #777;
+text-align: center;
+}
+
+.main:after {
+clear: both;
+display: block;
+content: " ";
+}
+
+.left-contents {
+width: 600px;
+margin-right: 20px;
+float: left;
+}
+
+.right-contents {
+width: 300px;
+float: left;
+}
